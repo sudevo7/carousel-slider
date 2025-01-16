@@ -6,7 +6,7 @@ This project features a **carousel slider** with a smooth scrolling animation. B
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/carousel-slider.git
+   git clone https://github.com/sudevo7/carousel-slider.git
 Navigate into the project directory:
 
 cd carousel-slider
