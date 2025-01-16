@@ -19,7 +19,7 @@ This project features a **carousel slider** with a smooth scrolling animation. B
 - **CSS**: Applied for styling the carousel and its items, providing the desired visual aesthetics and smooth transitions.
 - **JavaScript**: Implemented for the carousel's functionality, including scrolling and drag interactions.
 
-**Live Demo**
+## Live Demo
 You can view the project live on GitHub Pages: Live Demo (https://sudevo7.github.io/carousel-slider/)
 
 ## Time Spent
